@@ -1,0 +1,1 @@
+(()=>{"use strict";var e,o=document.querySelector(".userTemplate");console.log("script.js"),document.body.style.backgroundColor="red",document.createElement("div").innerText="New background changed",console.log("dom"),(e=document.createElement("h1")).textContent="loremIpsum",e.style.color="#fff",o.appendChild(e)})();
